@@ -1,0 +1,121 @@
+﻿empresa,sector,entregas_dia,distancia_km,carga_kg,autonomia_min,intencion,unidades,presupuesto_usd,prioridad,barrera
+Empresa simulada 001,Comercio electrónico,93,6,8,30,Tal vez,2,3000,Mantenimiento,Aceptación
+Empresa simulada 002,Logística,137,18,8,60,Sí,4,5000,Mantenimiento,Seguridad
+Empresa simulada 003,Logística,134,4,2,30,Tal vez,5,10000,Mantenimiento,Aceptación
+Empresa simulada 004,Alimentos,99,20,8,60,Tal vez,1,4000,Precio,Infraestructura
+Empresa simulada 005,Alimentos,173,20,1,30,No,1,10000,Seguridad,Infraestructura
+Empresa simulada 006,Agroindustria,117,4,3,20,Sí,1,6000,Mantenimiento,Aceptación
+Empresa simulada 007,Comercio electrónico,25,23,3,30,Sí,1,6000,Mantenimiento,Seguridad
+Empresa simulada 008,Logística,156,14,2,40,Tal vez,1,4000,Mantenimiento,Infraestructura
+Empresa simulada 009,Farmacias,119,24,1,60,Sí,5,10000,Carga útil,Regulación
+Empresa simulada 010,Comercio electrónico,131,3,5,40,Sí,4,3000,Autonomía,Aceptación
+Empresa simulada 011,Alimentos,117,7,2,60,Sí,5,4000,Precio,Infraestructura
+Empresa simulada 012,Agroindustria,115,16,5,60,Sí,5,5000,Precio,Infraestructura
+Empresa simulada 013,Logística,27,7,3,60,Sí,5,5000,Mantenimiento,Seguridad
+Empresa simulada 014,Logística,116,11,2,40,Sí,2,5000,Seguridad,Aceptación
+Empresa simulada 015,Logística,161,21,8,30,Sí,2,3000,Seguridad,Costo
+Empresa simulada 016,Logística,68,6,1,30,Sí,5,4000,Autonomía,Costo
+Empresa simulada 017,Alimentos,125,21,5,20,Sí,2,3000,Mantenimiento,Seguridad
+Empresa simulada 018,Comercio electrónico,15,4,5,30,Tal vez,1,6000,Carga útil,Infraestructura
+Empresa simulada 019,Agroindustria,76,7,2,60,Sí,4,5000,Autonomía,Aceptación
+Empresa simulada 020,Alimentos,93,19,2,30,No,5,6000,Precio,Seguridad
+Empresa simulada 021,Alimentos,197,25,1,20,No,5,6000,Precio,Infraestructura
+Empresa simulada 022,Farmacias,50,6,8,40,Tal vez,5,8000,Precio,Seguridad
+Empresa simulada 023,Comercio electrónico,62,10,8,60,Sí,1,6000,Mantenimiento,Aceptación
+Empresa simulada 024,Agroindustria,88,28,2,60,Tal vez,4,6000,Autonomía,Infraestructura
+Empresa simulada 025,Logística,199,30,1,30,No,5,6000,Seguridad,Seguridad
+Empresa simulada 026,Logística,172,18,1,30,Tal vez,4,6000,Autonomía,Aceptación
+Empresa simulada 027,Alimentos,16,14,1,40,No,5,6000,Seguridad,Costo
+Empresa simulada 028,Agroindustria,54,12,8,20,Tal vez,5,4000,Mantenimiento,Aceptación
+Empresa simulada 029,Alimentos,166,19,8,30,Tal vez,3,4000,Mantenimiento,Costo
+Empresa simulada 030,Alimentos,21,19,1,20,Sí,1,8000,Autonomía,Regulación
+Empresa simulada 031,Alimentos,173,10,5,60,Tal vez,3,5000,Carga útil,Aceptación
+Empresa simulada 032,Farmacias,63,2,1,40,Sí,2,6000,Seguridad,Infraestructura
+Empresa simulada 033,Comercio electrónico,185,6,2,60,Tal vez,1,4000,Autonomía,Aceptación
+Empresa simulada 034,Alimentos,66,29,3,60,No,1,5000,Seguridad,Infraestructura
+Empresa simulada 035,Agroindustria,92,14,5,60,Sí,4,6000,Autonomía,Infraestructura
+Empresa simulada 036,Comercio electrónico,136,15,8,20,Tal vez,3,6000,Precio,Regulación
+Empresa simulada 037,Agroindustria,34,15,1,60,Sí,3,6000,Mantenimiento,Costo
+Empresa simulada 038,Agroindustria,116,24,1,20,Tal vez,4,5000,Precio,Costo
+Empresa simulada 039,Farmacias,106,3,2,30,Sí,3,10000,Carga útil,Regulación
+Empresa simulada 040,Logística,159,4,2,40,No,4,6000,Precio,Costo
+Empresa simulada 041,Comercio electrónico,200,9,8,30,Sí,1,8000,Autonomía,Seguridad
+Empresa simulada 042,Logística,136,16,5,20,No,5,8000,Autonomía,Infraestructura
+Empresa simulada 043,Logística,88,21,2,20,No,3,6000,Seguridad,Aceptación
+Empresa simulada 044,Farmacias,87,16,8,60,Tal vez,1,10000,Seguridad,Seguridad
+Empresa simulada 045,Comercio electrónico,89,14,3,30,Tal vez,5,3000,Mantenimiento,Aceptación
+Empresa simulada 046,Agroindustria,165,29,3,30,Tal vez,4,10000,Mantenimiento,Aceptación
+Empresa simulada 047,Alimentos,71,6,3,60,No,1,10000,Mantenimiento,Aceptación
+Empresa simulada 048,Agroindustria,41,18,1,20,Sí,1,6000,Carga útil,Seguridad
+Empresa simulada 049,Logística,73,17,8,60,Tal vez,1,8000,Precio,Regulación
+Empresa simulada 050,Logística,14,15,1,60,Sí,2,6000,Carga útil,Aceptación
+Empresa simulada 051,Logística,30,25,1,40,Tal vez,1,4000,Precio,Regulación
+Empresa simulada 052,Comercio electrónico,27,9,2,20,Sí,4,8000,Carga útil,Seguridad
+Empresa simulada 053,Farmacias,157,29,2,20,Tal vez,3,4000,Carga útil,Costo
+Empresa simulada 054,Alimentos,147,11,1,30,Tal vez,5,4000,Carga útil,Infraestructura
+Empresa simulada 055,Alimentos,143,17,1,40,Sí,4,6000,Carga útil,Infraestructura
+Empresa simulada 056,Comercio electrónico,98,17,5,20,Tal vez,4,10000,Autonomía,Costo
+Empresa simulada 057,Alimentos,146,26,8,30,Tal vez,3,5000,Carga útil,Regulación
+Empresa simulada 058,Comercio electrónico,40,14,1,20,Tal vez,1,5000,Seguridad,Seguridad
+Empresa simulada 059,Logística,182,10,2,40,Tal vez,1,3000,Carga útil,Seguridad
+Empresa simulada 060,Logística,105,2,3,20,Tal vez,4,3000,Precio,Aceptación
+Empresa simulada 061,Agroindustria,189,12,8,40,No,1,3000,Mantenimiento,Regulación
+Empresa simulada 062,Logística,39,25,5,20,Sí,1,3000,Seguridad,Aceptación
+Empresa simulada 063,Farmacias,104,2,5,20,Sí,2,10000,Mantenimiento,Seguridad
+Empresa simulada 064,Agroindustria,142,27,3,20,Sí,5,10000,Mantenimiento,Aceptación
+Empresa simulada 065,Alimentos,104,17,3,60,Tal vez,3,8000,Seguridad,Regulación
+Empresa simulada 066,Farmacias,95,6,1,20,Sí,4,3000,Precio,Costo
+Empresa simulada 067,Agroindustria,41,10,8,30,Tal vez,3,3000,Precio,Costo
+Empresa simulada 068,Farmacias,82,18,8,40,Tal vez,1,4000,Carga útil,Regulación
+Empresa simulada 069,Comercio electrónico,55,11,1,40,Sí,2,6000,Carga útil,Aceptación
+Empresa simulada 070,Alimentos,67,5,5,40,No,1,5000,Mantenimiento,Costo
+Empresa simulada 071,Logística,140,21,1,60,Tal vez,4,5000,Seguridad,Regulación
+Empresa simulada 072,Comercio electrónico,130,21,5,30,Sí,1,4000,Precio,Costo
+Empresa simulada 073,Alimentos,125,5,8,60,Sí,2,8000,Precio,Aceptación
+Empresa simulada 074,Comercio electrónico,79,10,1,30,Sí,5,4000,Mantenimiento,Infraestructura
+Empresa simulada 075,Logística,193,9,3,60,Sí,3,3000,Seguridad,Infraestructura
+Empresa simulada 076,Alimentos,26,21,1,40,Sí,3,8000,Precio,Infraestructura
+Empresa simulada 077,Farmacias,75,23,3,40,No,3,10000,Autonomía,Infraestructura
+Empresa simulada 078,Farmacias,32,23,8,60,Sí,4,3000,Mantenimiento,Infraestructura
+Empresa simulada 079,Alimentos,74,29,1,60,Sí,2,5000,Seguridad,Costo
+Empresa simulada 080,Logística,193,24,2,60,Tal vez,4,8000,Seguridad,Aceptación
+Empresa simulada 081,Agroindustria,79,11,8,40,Tal vez,5,8000,Precio,Infraestructura
+Empresa simulada 082,Alimentos,183,5,2,20,No,3,10000,Precio,Infraestructura
+Empresa simulada 083,Comercio electrónico,104,19,1,30,Tal vez,3,5000,Mantenimiento,Regulación
+Empresa simulada 084,Agroindustria,143,28,3,20,Sí,1,5000,Precio,Aceptación
+Empresa simulada 085,Logística,97,30,3,60,Sí,2,8000,Precio,Regulación
+Empresa simulada 086,Logística,60,8,5,20,No,5,3000,Autonomía,Costo
+Empresa simulada 087,Comercio electrónico,155,8,2,20,Tal vez,3,4000,Autonomía,Aceptación
+Empresa simulada 088,Farmacias,195,3,8,20,No,2,6000,Seguridad,Regulación
+Empresa simulada 089,Logística,60,6,3,40,Sí,3,8000,Mantenimiento,Costo
+Empresa simulada 090,Agroindustria,158,18,2,40,No,3,3000,Mantenimiento,Infraestructura
+Empresa simulada 091,Alimentos,59,17,8,60,Tal vez,3,6000,Carga útil,Regulación
+Empresa simulada 092,Agroindustria,146,12,8,30,Sí,4,5000,Carga útil,Aceptación
+Empresa simulada 093,Agroindustria,160,10,3,30,Tal vez,2,6000,Seguridad,Seguridad
+Empresa simulada 094,Farmacias,95,26,1,20,Tal vez,4,10000,Autonomía,Costo
+Empresa simulada 095,Agroindustria,150,15,3,20,Sí,3,3000,Autonomía,Aceptación
+Empresa simulada 096,Farmacias,61,25,3,30,Sí,5,10000,Seguridad,Seguridad
+Empresa simulada 097,Farmacias,25,29,1,60,No,1,5000,Seguridad,Regulación
+Empresa simulada 098,Logística,28,11,5,40,Sí,1,8000,Autonomía,Infraestructura
+Empresa simulada 099,Logística,95,7,8,60,Sí,3,5000,Seguridad,Seguridad
+Empresa simulada 100,Comercio electrónico,182,29,1,20,Sí,3,4000,Autonomía,Costo
+Empresa simulada 101,Agroindustria,34,20,5,20,Sí,4,8000,Carga útil,Infraestructura
+Empresa simulada 102,Comercio electrónico,97,10,1,60,No,3,8000,Mantenimiento,Seguridad
+Empresa simulada 103,Agroindustria,144,20,5,20,Tal vez,5,3000,Carga útil,Infraestructura
+Empresa simulada 104,Comercio electrónico,48,16,3,20,Sí,3,8000,Precio,Aceptación
+Empresa simulada 105,Logística,147,28,1,30,No,1,8000,Precio,Infraestructura
+Empresa simulada 106,Logística,68,9,8,60,No,1,5000,Seguridad,Infraestructura
+Empresa simulada 107,Logística,164,30,1,40,Sí,5,10000,Autonomía,Regulación
+Empresa simulada 108,Logística,120,29,3,20,No,1,6000,Precio,Regulación
+Empresa simulada 109,Alimentos,114,7,1,60,Sí,5,5000,Precio,Seguridad
+Empresa simulada 110,Logística,43,6,8,60,No,2,3000,Autonomía,Aceptación
+Empresa simulada 111,Farmacias,98,17,5,60,Tal vez,1,8000,Precio,Seguridad
+Empresa simulada 112,Logística,173,3,8,60,Tal vez,2,4000,Seguridad,Regulación
+Empresa simulada 113,Alimentos,13,10,3,20,Sí,4,8000,Autonomía,Infraestructura
+Empresa simulada 114,Alimentos,154,14,3,60,No,3,6000,Carga útil,Aceptación
+Empresa simulada 115,Alimentos,104,30,5,30,Sí,4,5000,Precio,Aceptación
+Empresa simulada 116,Alimentos,147,30,5,60,Sí,4,3000,Carga útil,Regulación
+Empresa simulada 117,Comercio electrónico,136,6,8,40,Sí,3,8000,Carga útil,Infraestructura
+Empresa simulada 118,Comercio electrónico,92,27,1,60,Tal vez,4,3000,Mantenimiento,Seguridad
+Empresa simulada 119,Farmacias,68,4,5,40,Sí,5,5000,Mantenimiento,Seguridad
+Empresa simulada 120,Comercio electrónico,129,23,1,40,No,3,10000,Carga útil,Regulación
